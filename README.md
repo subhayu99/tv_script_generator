@@ -7,5 +7,5 @@ In this project, you'll generate your own Seinfeld TV scripts using RNNs. You'll
 Getting the project files
 The project files can be found in our public GitHub repo, in the project-tv-script-generation folder. You can download the files from there, but it's better to clone the repository to your computer using:
 
-git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+git clone https://github.com/subhayu99/tv_script_generator.git
 This way you can stay up to date with any changes we make by pulling the changes to your local repository with git pull.
